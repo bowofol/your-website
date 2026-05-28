@@ -1,0 +1,25 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract portfolio visual</title>
+  <desc id="desc">A polished abstract composition representing product design, code, and measurable impact.</desc>
+  <rect width="900" height="900" fill="#EDF4F2"/>
+  <rect x="104" y="110" width="692" height="680" rx="38" fill="#FBFAF7" stroke="#D6E0DF" stroke-width="4"/>
+  <rect x="158" y="172" width="584" height="86" rx="18" fill="#151719"/>
+  <circle cx="202" cy="215" r="13" fill="#D95B43"/>
+  <circle cx="242" cy="215" r="13" fill="#B7832F"/>
+  <circle cx="282" cy="215" r="13" fill="#7BD2C8"/>
+  <rect x="158" y="310" width="228" height="238" rx="22" fill="#0F766E"/>
+  <path d="M199 480L260 386L319 444L345 410L345 507H199V480Z" fill="#FBFAF7"/>
+  <circle cx="323" cy="362" r="24" fill="#F4D4C8"/>
+  <rect x="422" y="310" width="320" height="46" rx="12" fill="#DCE8E6"/>
+  <rect x="422" y="390" width="260" height="28" rx="10" fill="#A7BCB9"/>
+  <rect x="422" y="438" width="300" height="28" rx="10" fill="#C5D2D0"/>
+  <rect x="422" y="486" width="204" height="28" rx="10" fill="#C5D2D0"/>
+  <rect x="158" y="602" width="140" height="92" rx="18" fill="#D95B43"/>
+  <rect x="332" y="602" width="140" height="92" rx="18" fill="#2D5F88"/>
+  <rect x="506" y="602" width="236" height="92" rx="18" fill="#B7832F"/>
+  <path d="M192 658H265" stroke="#FBFAF7" stroke-width="15" stroke-linecap="round"/>
+  <path d="M366 657H438" stroke="#FBFAF7" stroke-width="15" stroke-linecap="round"/>
+  <path d="M544 657H704" stroke="#FBFAF7" stroke-width="15" stroke-linecap="round"/>
+  <path d="M116 687C190 741 291 767 418 767C579 767 706 721 793 630" stroke="#0B4F4A" stroke-width="10" stroke-linecap="round" opacity=".18"/>
+  <path d="M104 311C199 260 317 235 459 235C599 235 711 260 796 311" stroke="#0B4F4A" stroke-width="10" stroke-linecap="round" opacity=".12"/>
+</svg>

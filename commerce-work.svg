@@ -1,0 +1,18 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Premium checkout preview</title>
+  <desc id="desc">A responsive checkout interface with product detail, payment summary, and trust indicators.</desc>
+  <rect width="900" height="620" rx="28" fill="#D95B43"/>
+  <rect x="64" y="66" width="772" height="488" rx="26" fill="#FBFAF7"/>
+  <rect x="112" y="114" width="272" height="354" rx="22" fill="#F4D4C8"/>
+  <rect x="164" y="176" width="168" height="190" rx="22" fill="#151719"/>
+  <path d="M192 316C225 285 267 285 306 316" stroke="#7BD2C8" stroke-width="14" stroke-linecap="round"/>
+  <rect x="430" y="122" width="300" height="42" rx="12" fill="#151719"/>
+  <rect x="430" y="206" width="354" height="54" rx="14" fill="#EDF4F2"/>
+  <rect x="430" y="288" width="354" height="54" rx="14" fill="#EDF4F2"/>
+  <rect x="430" y="370" width="230" height="54" rx="14" fill="#EDF4F2"/>
+  <rect x="430" y="468" width="354" height="48" rx="14" fill="#0F766E"/>
+  <path d="M462 233H638" stroke="#A7BCB9" stroke-width="13" stroke-linecap="round"/>
+  <path d="M462 315H708" stroke="#A7BCB9" stroke-width="13" stroke-linecap="round"/>
+  <path d="M462 397H596" stroke="#A7BCB9" stroke-width="13" stroke-linecap="round"/>
+  <circle cx="736" cy="397" r="24" fill="#B7832F"/>
+</svg>

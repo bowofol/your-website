@@ -1,0 +1,21 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AI workspace preview</title>
+  <desc id="desc">A smart assistant workspace with prompt cards, response streams, and project notes.</desc>
+  <rect width="900" height="620" rx="28" fill="#B7832F"/>
+  <rect x="58" y="58" width="784" height="504" rx="26" fill="#FBFAF7"/>
+  <rect x="102" y="104" width="172" height="412" rx="20" fill="#151719"/>
+  <rect x="314" y="104" width="484" height="116" rx="20" fill="#EDF4F2"/>
+  <rect x="314" y="252" width="226" height="264" rx="20" fill="#0F766E"/>
+  <rect x="572" y="252" width="226" height="264" rx="20" fill="#EDF4F2"/>
+  <path d="M142 164H230" stroke="#FBFAF7" stroke-width="14" stroke-linecap="round"/>
+  <path d="M142 224H212" stroke="#7BD2C8" stroke-width="14" stroke-linecap="round"/>
+  <path d="M142 284H238" stroke="#FBFAF7" stroke-width="14" stroke-linecap="round"/>
+  <path d="M142 344H202" stroke="#FBFAF7" stroke-width="14" stroke-linecap="round"/>
+  <path d="M362 150H740" stroke="#A7BCB9" stroke-width="16" stroke-linecap="round"/>
+  <path d="M362 182H620" stroke="#A7BCB9" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="427" cy="368" r="54" fill="#FBFAF7"/>
+  <path d="M407 368H447M427 348V388" stroke="#0F766E" stroke-width="14" stroke-linecap="round"/>
+  <path d="M620 330H748" stroke="#A7BCB9" stroke-width="15" stroke-linecap="round"/>
+  <path d="M620 384H720" stroke="#D95B43" stroke-width="15" stroke-linecap="round"/>
+  <path d="M620 438H760" stroke="#2D5F88" stroke-width="15" stroke-linecap="round"/>
+</svg>
